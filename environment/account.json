@@ -1,0 +1,7 @@
+{
+    "admin": {
+        "email": "jorji@ehtest.com",
+        "password": "admin"
+    },
+    "url": "https://onetrackui.azurewebsites.net/"
+}

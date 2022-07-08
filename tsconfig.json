@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "types": ["node", "webdriverio/async", "@wdio/mocha-framework", "expect-webdriverio"],
+        "target": "ES6",
+        "module": "commonjs",
+        "resolveJsonModule": true
+    }
+}
